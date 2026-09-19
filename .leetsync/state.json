@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "updatedAt": 1789824141485,
+  "devices": {
+    "88d3d23d-915a-4d6a-9be9-6d61843d4a94": {
+      "lastSeen": 1789824141072
+    }
+  },
+  "problems": {
+    "167": {
+      "attempts": 2,
+      "bestMemory": "25.7 MB (Beats 8%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-19",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-19",
+      "folderName": "0167-Two-Sum-II---Input-Array-Is-Sorted",
+      "language": "C++",
+      "number": 167,
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search"
+      ],
+      "title": "Two Sum II - Input Array Is Sorted",
+      "at": 1789824141072
+    }
+  },
+  "achievements": {
+    "first_blood": 1789823954621
+  },
+  "sheets": {},
+  "days": [
+    "2026-09-19"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 1
+  },
+  "identity": {
+    "installId": "260c5fe7-a010-4ddf-8fab-edcf508474a9",
+    "at": 1789822641281,
+    "name": "kritika",
+    "nameAt": 1789823334512
+  }
+}
