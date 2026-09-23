@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790185223107,
+  "updatedAt": 1790185341531,
   "devices": {
     "88d3d23d-915a-4d6a-9be9-6d61843d4a94": {
-      "lastSeen": 1790185222591
+      "lastSeen": 1790185341056
     }
   },
   "problems": {
@@ -25,7 +25,26 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1790185222591
+      "at": 1790185341056
+    },
+    "283": {
+      "attempts": 1,
+      "bestMemory": "23.9 MB (Beats 19%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-23",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-23",
+      "folderName": "0283-Move-Zeroes",
+      "language": "C++",
+      "number": 283,
+      "slug": "move-zeroes",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Move Zeroes",
+      "at": 1790185341056
     }
   },
   "achievements": {
@@ -33,11 +52,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-09-19"
+    "2026-09-19",
+    "2026-09-23"
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 2
+    "pushes": 3
   },
   "identity": {
     "installId": "260c5fe7-a010-4ddf-8fab-edcf508474a9",
