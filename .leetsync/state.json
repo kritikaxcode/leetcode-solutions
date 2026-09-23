@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790183543429,
+  "updatedAt": 1790183841518,
   "devices": {
     "88d3d23d-915a-4d6a-9be9-6d61843d4a94": {
-      "lastSeen": 1790183541077
+      "lastSeen": 1790183841068
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1790183541077
+      "at": 1790183841068
     }
   },
   "achievements": {
