@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790240245640,
+  "updatedAt": 1790240542088,
   "devices": {
     "88d3d23d-915a-4d6a-9be9-6d61843d4a94": {
-      "lastSeen": 1790240241056
+      "lastSeen": 1790240541079
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1790240241056
+      "at": 1790240541079
     },
     "283": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1790240241056
+      "at": 1790240541079
     }
   },
   "achievements": {
