@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790526419815,
+  "updatedAt": 1790526683802,
   "devices": {
     "88d3d23d-915a-4d6a-9be9-6d61843d4a94": {
-      "lastSeen": 1790526419408
+      "lastSeen": 1790526683334
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1790526419408
+      "at": 1790526683334
     },
     "217": {
       "attempts": 2,
@@ -45,7 +45,27 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1790526419408
+      "at": 1790526683334
+    },
+    "242": {
+      "attempts": 1,
+      "bestMemory": "9.8 MB (Beats 25%)",
+      "bestRuntime": "3 ms (Beats 45%)",
+      "date": "2026-09-27",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-27",
+      "folderName": "0242-Valid-Anagram",
+      "language": "C++",
+      "number": 242,
+      "slug": "valid-anagram",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "title": "Valid Anagram",
+      "at": 1790526683334
     },
     "268": {
       "attempts": 1,
@@ -68,7 +88,7 @@
         "Sorting"
       ],
       "title": "Missing Number",
-      "at": 1790526419408
+      "at": 1790526683334
     },
     "283": {
       "attempts": 1,
@@ -87,7 +107,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1790526419408
+      "at": 1790526683334
     }
   },
   "achievements": {
@@ -100,11 +120,12 @@
     "2026-09-19",
     "2026-09-23",
     "2026-09-24",
-    "2026-09-25"
+    "2026-09-25",
+    "2026-09-27"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 6
+    "pushes": 7
   },
   "identity": {
     "installId": "260c5fe7-a010-4ddf-8fab-edcf508474a9",
