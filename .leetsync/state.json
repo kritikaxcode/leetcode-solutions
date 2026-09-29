@@ -1,12 +1,33 @@
 {
   "v": 1,
-  "updatedAt": 1790620035553,
+  "updatedAt": 1790697559921,
   "devices": {
     "88d3d23d-915a-4d6a-9be9-6d61843d4a94": {
-      "lastSeen": 1790620035130
+      "lastSeen": 1790697548642
     }
   },
   "problems": {
+    "49": {
+      "attempts": 1,
+      "bestMemory": "26.2 MB (Beats 34%)",
+      "bestRuntime": "15 ms (Beats 69%)",
+      "date": "2026-09-28",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "0049-Group-Anagrams",
+      "language": "C++",
+      "number": 49,
+      "slug": "group-anagrams",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "title": "Group Anagrams",
+      "at": 1790697548642
+    },
     "167": {
       "attempts": 1,
       "bestMemory": "25.7 MB (Beats 8%)",
@@ -25,7 +46,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1790620035130
+      "at": 1790697548642
     },
     "217": {
       "attempts": 2,
@@ -45,7 +66,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1790620035130
+      "at": 1790697548642
     },
     "242": {
       "attempts": 1,
@@ -65,7 +86,7 @@
         "Sorting"
       ],
       "title": "Valid Anagram",
-      "at": 1790620035130
+      "at": 1790697548642
     },
     "268": {
       "attempts": 1,
@@ -88,7 +109,7 @@
         "Sorting"
       ],
       "title": "Missing Number",
-      "at": 1790620035130
+      "at": 1790697548642
     },
     "283": {
       "attempts": 1,
@@ -107,7 +128,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1790620035130
+      "at": 1790697548642
     }
   },
   "achievements": {
@@ -121,11 +142,12 @@
     "2026-09-23",
     "2026-09-24",
     "2026-09-25",
-    "2026-09-27"
+    "2026-09-27",
+    "2026-09-28"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 7
+    "pushes": 8
   },
   "identity": {
     "installId": "260c5fe7-a010-4ddf-8fab-edcf508474a9",
